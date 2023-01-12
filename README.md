@@ -1,5 +1,5 @@
 # BlockCollisionBETA1.0
-A emulator for blockcollision using the law of conservation of energy
+A emulator for blockcollision using the law of "conservation of energy"
 
 
 At "Blue Speed" you habe to be careful:
